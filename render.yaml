@@ -5,7 +5,7 @@ services:
     runtime: docker
     region: Frankfurt
     branch: V-2.00
-    repo: 
+    repo: https://github.com/corneh56-4/Corneh-tech
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
